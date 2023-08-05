@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Sat Aug 05 09:34:27 ICT 2023
+total=7000
+stories/GoogleSearch.story=7000
+threadAverage=7000
+threads=1

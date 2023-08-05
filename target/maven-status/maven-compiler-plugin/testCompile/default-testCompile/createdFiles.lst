@@ -1,0 +1,3 @@
+com\TecAlliance\pages\GoogleSearchPage.class
+com\TecAlliance\runner\GoogleSearchTest.class
+com\TecAlliance\steps\GoogleSearchSteps.class
